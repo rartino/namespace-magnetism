@@ -1,6 +1,7 @@
-# definition-provider-template
+# namespace-magnetism
 
-Template repository for definition providers.
+Repository for the cheminformatics namespace.
+**Note: namespace definition suborganizations is still very new in OPTIMADE and this namespace is to be regarded as extremely experimental**
 
 1. Clone this repo (with submodules for tools)
    ```
